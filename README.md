@@ -1,9 +1,9 @@
 # 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞 💀 
  <img align="center" src="https://github.com/demartini/demartini/blob/master/code.gif" height="200"/>
 
-# My Name is Phuree
-- [x] Chess 🤩
-- [x] Valorant 🤯
+# 𝖬𝗒 𝖭𝖺𝗆𝖾 𝗂𝗌 _𝖯𝗁𝗎𝗋𝖾𝖾_
+- [x] 𝙲𝚑𝚎𝚜𝚜 🤩
+- [x] 𝚅𝚊𝚕𝚘𝚛𝚊𝚗𝚝 🤯
       
  <a href="https://instagram.com/_phureexd_" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
