@@ -1,7 +1,7 @@
-# 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞 💀 
+# 🚀 About Me
  <img align="center" src="https://github.com/demartini/demartini/blob/master/code.gif" height="200"/>
 
-# 𝖬𝗒 𝖭𝖺𝗆𝖾 𝗂𝗌 _𝖯𝗁𝗎𝗋𝖾𝖾_
+## Hi, I'm Phuree! 👋
 - [x] 𝙲𝚑𝚎𝚜𝚜 🤩
 - [x] 𝚅𝚊𝚕𝚘𝚛𝚊𝚗𝚝 🤯
       
