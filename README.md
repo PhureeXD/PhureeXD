@@ -6,12 +6,15 @@
 - [x] 𝚅𝚊𝚕𝚘𝚛𝚊𝚗𝚝 🤯
       
  <a href="https://instagram.com/_phureexd_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="ig" />
  </a> 
  <a href="https://www.facebook.com/phuree.cheewatas/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="fb"  />
   </a> 
-
+ <a href="mailto:phureeppp@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"  />
+  </a> 
+  
 ## 𝙎𝙠𝙞𝙡𝙡𝙨
 
 <p align="left">
