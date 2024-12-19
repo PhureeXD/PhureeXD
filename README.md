@@ -104,7 +104,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=phureexd&theme=radical&border_color=9896f1" alt="Phuree's GitHub streak"/>
   </a>
    <a href="https://github.com/phureexd">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phureexd&theme=radical" alt="Phuree's GitHub streak" height="195px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phureexd&hide=html,css,c&theme=radical" alt="Phuree's GitHub streak" height="195px"/>
   </a>
 </div>  
 <p align="center">
